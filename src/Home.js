@@ -70,7 +70,7 @@ const Home = () =>{
             }
         </div>
         <div className='favorites'>
-            <h2>Favarate Users</h2>
+            <h2>Favorite Users</h2>
                 <div id='favDiv'>
                 <FavoriteList/>
                 </div>   
